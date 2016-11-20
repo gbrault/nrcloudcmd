@@ -38,8 +38,7 @@ module.exports = function (RED) {
             // This middleware will enable/disable cloudcmd at demand (msg.on==='on' => enable, 'off' => disabled)            
             if (node.middleware === undefined) {
                 node.middleware = function (req, res, next) {
-                    console.log('Time: %s %s', Date.now().toString(), decodeURI(req.originalUrl));
-                    // console.log(this);
+                    // console.log('Time: %s %s', Date.now().toString(), decodeURI(req.originalUrl));
                     if (req.originalUrl.indexOf(this.path) === 0 && !this.bon) {
                         res.status(404).send({ error: 'Cloud Cmd is disabled' });
                     } else {
