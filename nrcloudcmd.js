@@ -19,7 +19,8 @@ module.exports = function (RED) {
             var server = RED.server;
             if (node.config === undefined) {
                 node.config = {
-                    prefix /* base URL or function which returns base URL (optional)   */
+                    prefix, /* base URL or function which returns base URL (optional)   */
+					console: true
                 };
             }
             if (node.socket === undefined) {
