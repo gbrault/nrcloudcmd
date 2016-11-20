@@ -1,0 +1,30 @@
+
+<script type="text/x-red" data-template-name="nrcloudcmd">
+    <div class="form-row">
+        <label for="node-input-name"><i class="fa fa-tag"></i> Name</label>
+        <input type="text" id="node-input-name" placeholder="Name" style="width: 300px;">
+    </div>
+</script>
+
+<script type="text/x-red" data-help-name="nrcloudcmd">
+    <p>CloudCmd Bootstrap.</p>
+ </script>
+
+<script type="text/javascript">
+    RED.nodes.registerType('nrcloudcmd',{
+        category: 'function',
+        color:"#E2D96E",
+        defaults: {
+            name: {value:""},
+        },
+        inputs:1,
+        outputs:1,
+        icon: "debug.png",
+        label: function() {
+            return this.name||"nrcloudcmd";
+        },
+        labelStyle: function() {
+            return this.name?"node_label_italic":"";
+        }
+    });
+</script>

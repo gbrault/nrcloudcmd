@@ -1,0 +1,26 @@
+{
+    "name"          : "nrcloudcmd",
+    "version"       : "0.0.7",
+    "description"   : "A Node-RED node cloudcmd bootstrap",
+    "dependencies"  : {
+        "cloudcmd":"5.*.*",
+        "socket.io":"*",
+        "express":"*"
+    },
+    "repository" : {
+        "type":"git",
+        "url":"https://github.com/gbrault/nrcloudcmd"
+    },
+    "license": "Apache-2.0",
+    "keywords": [ "node-red", "cloudcmd" ],
+    "node-red"      : {
+        "nodes"     : {
+            "cloudcmd": "nrcloudcmd.js"
+        }
+    },
+    "author": {
+        "name": "Gilbert Brault",
+        "email": "gbrault@seadev.org",
+        "url": "https://github.com/gbrault"
+    }
+}
