@@ -20,7 +20,8 @@ module.exports = function (RED) {
             if (node.config === undefined) {
                 node.config = {
                     prefix, /* base URL or function which returns base URL (optional)   */
-					console: true
+					console: true,
+					configDialog: true
                 };
             }
             if (node.socket === undefined) {
