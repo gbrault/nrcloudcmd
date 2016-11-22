@@ -21,4 +21,6 @@ Usage
 -----
 Setup a flow to integrate nrcloudcmd node-red node (use flows.json)
 ![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd.png)
+Open the cloudcmd dashboard ui
+![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd-ui-1.png)
 
