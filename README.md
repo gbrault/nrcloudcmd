@@ -10,7 +10,7 @@ A <a href="https://github.com/gbrault/nrcloudcmd" target="_new">Node-RED</a> Emb
 * All those features implement by a single node-red component
 
 This design is possible thanks to
-* [cloudcmd](https://github.com/coderaiser/cloudcmd)  thanks coderaiser from Ukraine [email](mnemonic.enemy@gmail.com)
+* [cloudcmd](https://github.com/coderaiser/cloudcmd)  thanks coderaiser from Ukraine [email](mailto:mnemonic.enemy@gmail.com)
 * [node-red](https://github.com/node-red/node-red) thanks Nick O'Leary [@knolleary](http://twitter.com/knolleary) and Dave Conway-Jones [@ceejay](http://twitter.com/ceejay)
 
 Install
