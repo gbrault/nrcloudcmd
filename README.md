@@ -19,5 +19,6 @@ Run the following command in your Node-RED user directory - typically `~/.node-r
 
 Usage
 -----
-Setup a flow to integrate nrcloudcmd node-red node
+Setup a flow to integrate nrcloudcmd node-red node (use flows.json)
 ![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd.png)
+
