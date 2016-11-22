@@ -32,7 +32,10 @@ Enable the cloudcmd manager (click the on button and then reload frame (right cl
 ![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd-ui-2.png)
 You can now browse the node-red associated computer, under the account which started node-red
 ![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd-ui-3.png)
-An of coures, you have the cloudcmd associated console
+And of coures, you have the cloudcmd associated console
 ![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd-ui-4.png)
+Just click on the off button to cut access to cloudcmd
+
+Enjoy!
 
 
