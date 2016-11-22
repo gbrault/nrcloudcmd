@@ -27,7 +27,7 @@ Setup a flow to integrate nrcloudcmd node-red node (use flows.json)
 ![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd.png)
 Open the cloudcmd dashboard ui
 ![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd-ui-1.png)
-Enable the cloudcmd manager (click on reload frame)
+Enable the cloudcmd manager (click the on button and then reload frame (right click on the frame to get the menu))
 ![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd-ui-2.png)
 You can now browse the node-red associated computer, under the account which started node-red
 ![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd-ui-3.png)
