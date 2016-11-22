@@ -6,7 +6,7 @@ A <a href="https://github.com/gbrault/nrcloudcmd" target="_new">Node-RED node</a
 * A file editor
 * A terminal console (providing access to the node-red computer shell)
 * Cloudcmd is integrated as a middleware
-* Can be enabled/disabled via the interface (some tuning still needed) to avoid having this feature widely opened
+* Can be enabled/disabled via the interface (some tuning still needed) to avoid having this feature opened all time
 * Integrated into node-red ui as an iframe
 * All those features implement by a single node-red component
 
