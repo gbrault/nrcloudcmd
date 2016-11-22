@@ -9,6 +9,10 @@ A <a href="https://github.com/gbrault/nrcloudcmd" target="_new">Node-RED</a> Emb
 * Integrated into node-red ui as an iframe
 * All those features implement by a single node-red component
 
+This design is possible thanks to
+* [cloudcmd](https://github.com/coderaiser/cloudcmd)  thanks coderaiser from Ukraine [email](mnemonic.enemy@gmail.com)
+* [node-red](https://github.com/node-red/node-red) thanks Nick O'Leary [@knolleary](http://twitter.com/knolleary) and Dave Conway-Jones [@ceejay](http://twitter.com/ceejay)
+
 Install
 -------
 
