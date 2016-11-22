@@ -19,4 +19,4 @@ Run the following command in your Node-RED user directory - typically `~/.node-r
 
 Usage
 -----
-[setup a flow](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd.png)
+![alt-tag](https://raw.githubusercontent.com/gbrault/nrcloudcmd/master/node-red-cloudcmd.png)
