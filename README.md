@@ -1,7 +1,7 @@
 nrcloudcmd
 ==========
 
-A <a href="https://github.com/gbrault/nrcloudcmd" target="_new">Node-RED</a> Embedding Cloudcmd into node-red add the following features
+A <a href="https://github.com/gbrault/nrcloudcmd" target="_new">Node-RED</a> Embedding Cloudcmd into node-red adding the following features
 * A directory browser to node-red
 * A file editor
 * Cloudcmd is integrated as a middleware
